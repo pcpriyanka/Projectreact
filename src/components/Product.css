@@ -1,0 +1,9 @@
+.product{
+    border: 2px solid red;
+    border-radius: 10px;
+    background-color: aqua;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+
+};
